@@ -31,7 +31,6 @@ client = WebClient(os.environ.get("SLACK_BOT_TOKEN"))
 # print(bot_info)
 
 
-# Add functionality here
 @app.middleware  # or app.use(log_request)
 def log_request(logger, body, next):
     logger.debug(body)
