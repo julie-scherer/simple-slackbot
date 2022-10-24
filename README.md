@@ -139,34 +139,34 @@ This is a very simple Slack bot for sending a welcome message to a channel and d
 ### Building out your bot with Bolt and Flask in Python
 
 **Steps to get started**
-  https://github.com/slackapi/bolt-python or
-  https://api.slack.com/start/building/bolt-python#start 
+- https://github.com/slackapi/bolt-python or
+- https://api.slack.com/start/building/bolt-python#start 
 
 **Bolt Python**
-  https://slack.dev/bolt-python/concepts
+- https://slack.dev/bolt-python/concepts
 
 **Python Slack SDK**
-  https://slack.dev/python-slackclient/basic_usage.html
+- https://slack.dev/python-slackclient/basic_usage.html
 
 **Configuring with Flask**
-  https://slack.dev/bolt-python/concepts#adapters or
-  https://github.com/slackapi/bolt-python/tree/main/examples/flask or
-  https://python.plainenglish.io/lets-create-a-slackbot-cause-why-not-2972474bf5c1
+- https://slack.dev/bolt-python/concepts#adapters or
+- https://github.com/slackapi/bolt-python/tree/main/examples/flask or
+- https://python.plainenglish.io/lets-create-a-slackbot-cause-why-not-2972474bf5c1
 
 
 ### Designing your bot's UI
 
 **Slack Block Kit Builder for building out messages**
-  https://app.slack.com/block-kit-builder/
+- https://app.slack.com/block-kit-builder/
 
 **Building a home for your app**
-  https://api.slack.com/tutorials/app-home-with-modal
+- https://api.slack.com/tutorials/app-home-with-modal
 
 
 ### Setting up for public distribution
 
 **Deploying a Slack Bolt app with Gunicorn**
-  https://blog.tryfrindle.com/deploying-a-slack_bolt-app-with-gunicorn/
+- https://blog.tryfrindle.com/deploying-a-slack_bolt-app-with-gunicorn/
 
 **Installing to a workspace**
-  https://python-slackclient.readthedocs.io/en/latest/auth.html
+- https://python-slackclient.readthedocs.io/en/latest/auth.html
